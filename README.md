@@ -1,5 +1,4 @@
-[/header.png
-](https://github.com/michelleLisowski/michelleLisowski/blob/main/header.png?raw=true)
+Hi! I'm Michelle.
 <!--
 **michelleLisowski/michelleLisowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
